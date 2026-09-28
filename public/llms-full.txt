@@ -1,0 +1,28 @@
+﻿# Harini K - Complete AI & Systems Engineering Dossier
+
+## 1. Professional Overview
+Harini K is a Forward Deployed Engineer (FDE) and AI Systems Architect. She bridges cutting-edge Large Language Model (LLM) research with scalable, asynchronous production backend systems and intuitive web interfaces.
+
+### Contact Information
+- Email: harinik37@gmail.com
+- LinkedIn: https://linkedin.com/in/harini-k-ai
+- GitHub: https://github.com/harini-k-dev
+- Location: Coimbatore, Tamil Nadu, India
+
+## 2. Technical Capabilities Matrix
+- **Generative AI & LLMs:** Agentic AI, Prompt Engineering & Evaluation, OpenAI & Gemini APIs, PyTorch, Scikit-Learn, NLP, Workflow Automation, NumPy & Pandas.
+- **Full-Stack & Distributed Backends:** React.js, Next.js, Node.js, Express.js, Asynchronous REST APIs, PostgreSQL, MySQL, Redis, MongoDB, Firebase.
+- **Cloud & DevOps:** Microsoft Azure (AZ-104), AWS Fundamentals, Docker, Git, CI/CD, Playwright, Vitest.
+- **Computer Science & System Design:** Data Structures & Algorithms, Object-Oriented Programming, Relational Schema Design, RBAC Security, Agile/Scrum.
+
+## 3. Verified Experience & Internships
+- **AI Development Intern (ICT Department - RGU | Jan 2026 – Aug 2026):** Engineered ASTRO AI dialogue assistant; built non-blocking asynchronous Python endpoints eliminating request starvation and achieving 40% latency reduction.
+- **Web Development Intern (Cyfotech Infosys | May 2024 – Jul 2024):** Developed responsive client interfaces connected to dynamic backend CRUD APIs.
+
+## 4. Engineering Thinking & Methodology (6-Stage Flow)
+1. **Discovery & Scope:** Problem mapping, constraint identification, latency budgeting.
+2. **Architecture & Schema:** Relational MySQL/PostgreSQL schema modeling, RBAC mapping, OpenAPI contracts.
+3. **Agent Orchestration:** Prompt optimization, zero/few-shot templates, context memory buffers.
+4. **Asynchronous Optimization:** FastAPI / AsyncIO queues, Redis caching, sub-100ms response times.
+5. **Full-Stack Integration:** Next.js interfaces, WebSocket streams, automated QA with Vitest & Playwright.
+6. **Production & Scale:** Docker containers, cloud infrastructure, CI/CD telemetry.

@@ -1,0 +1,37 @@
+﻿# Harini K - Forward Deployed Engineer & AI Systems Architect
+
+> Harini K is a Forward Deployed Engineer and AI Full-Stack Developer specializing in Generative AI / LLM agent orchestration, asynchronous low-latency REST APIs, and production system integration.
+
+## Key Facts & Verified Credentials
+- **Role:** Forward Deployed Engineer (FDE) & AI Systems Architect
+- **Location:** Coimbatore, Tamil Nadu, India
+- **Education:** B.Sc. Computer Science with Artificial Intelligence @ Rathinam Global Deemed to be University (CGPA: 8.50 / Expected 2027)
+- **Email:** harinik37@gmail.com
+- **LinkedIn:** https://linkedin.com/in/harini-k-ai
+- **GitHub:** https://github.com/harini-k-dev
+- **Core Strengths:** Non-blocking asynchronous Python (FastAPI/AsyncIO), LLM prompt evaluation, relational schema modeling (MySQL/PostgreSQL), Redis caching, Docker containerization, Azure Cloud (AZ-104), and high-velocity Next.js/React development.
+
+## Major Achievements & Awards
+- **1st Place Overall Winner (Champion):** Inter-College Mini-Hackathon 2026 (KPR College) for rapid full-stack AI workflow automation.
+- **Runner-Up:** Technical Paper Presentation, Rathinam Grand Fest (RGF 2026) for research on high-concurrency AI agent architectures.
+- **National Finalist:** National Conference on Emerging Technologies 2026.
+
+## Featured Production Deployments
+- **ASTRO Enterprise AI:** High-throughput dialogue assistant for institutional routing; reduced response latency by 40% using non-blocking asynchronous Python queues.
+- **Zara AI:** Multi-turn conversational virtual assistant with indexed relational MySQL caching for instant context recall.
+- **Smart Management System:** Vectorized academic record engine built with NumPy array operations and transactional database schemas.
+
+## Certifications
+- Microsoft Azure Administrator Associate (AZ-104) Prep
+- IBM Generative AI: Introduction & Application
+- Oracle / Java Certified Foundations Associate
+- Coursera: Introduction to Big Data
+
+## Links & Navigation
+- [Home Page](https://harini-k.dev/): Primary overview and live status
+- [About Harini](https://harini-k.dev/about): Detailed biography, metrics, and skill matrix
+- [How I Work / Process](https://harini-k.dev/process): 6-stage engineering and deployment methodology
+- [Production Projects](https://harini-k.dev/projects): Deep-dives and system architecture blueprints
+- [Gallery & Artifacts](https://harini-k.dev/gallery): Hackathon milestones, awards, and system diagrams
+- [Articles & Publications](https://harini-k.dev/articles): Research papers and technical optimization notes
+- [Contact & Inquiries](https://harini-k.dev/contact): Direct contact and deployment booking

@@ -1,0 +1,52 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc" />
+      <stop offset="100%" stop-color="#e2e8f0" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Outer Card Frame -->
+  <rect x="20" y="20" width="560" height="560" rx="32" fill="url(#grad1)" stroke="#1b1b1b" stroke-width="4" />
+  <rect x="36" y="36" width="528" height="528" rx="24" fill="#ffffff" stroke="#e2e8f0" stroke-width="2" />
+  
+  <!-- Female Engineer Avatar Art -->
+  <circle cx="300" cy="210" r="85" fill="#1b1b1b" />
+  <!-- Hair styling -->
+  <path d="M210 220 Q210 130 300 130 Q390 130 390 220 Q390 280 375 320 Q365 240 350 200 Q300 180 250 200 Q235 240 225 320 Q210 280 210 220 Z" fill="#334155" />
+  <!-- Face -->
+  <ellipse cx="300" cy="225" rx="55" ry="65" fill="#fed7aa" />
+  <!-- Glasses -->
+  <circle cx="275" cy="215" r="20" fill="none" stroke="#4f46e5" stroke-width="5" />
+  <circle cx="325" cy="215" r="20" fill="none" stroke="#4f46e5" stroke-width="5" />
+  <line x1="295" y1="215" x2="305" y2="215" stroke="#4f46e5" stroke-width="5" />
+  <!-- Smile -->
+  <path d="M285 255 Q300 270 315 255" fill="none" stroke="#1b1b1b" stroke-width="4" stroke-linecap="round" />
+  <!-- Torso & Blazer -->
+  <path d="M170 450 C170 340, 240 310, 300 310 C360 310, 430 340, 430 450 Z" fill="#1b1b1b" />
+  <polygon points="300,340 270,410 330,410" fill="#ffffff" />
+  <polygon points="300,380 285,450 315,450" fill="#4f46e5" />
+  
+  <!-- Floating Code Badges with Clean Icons / Shapes -->
+  <g transform="translate(60, 90)">
+    <rect width="160" height="46" rx="12" fill="#ffffff" stroke="#1b1b1b" stroke-width="2.5" />
+    <circle cx="28" cy="23" r="6" fill="#4f46e5" />
+    <text x="95" y="29" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#1b1b1b" text-anchor="middle">AI Systems Architect</text>
+  </g>
+  
+  <g transform="translate(370, 360)">
+    <rect width="160" height="46" rx="12" fill="#ffffff" stroke="#1b1b1b" stroke-width="2.5" />
+    <rect x="20" y="17" width="12" height="12" rx="3" fill="#06b6d4" />
+    <text x="95" y="29" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#4f46e5" text-anchor="middle">&lt;FDE Engine /&gt;</text>
+  </g>
+  
+  <g transform="translate(70, 380)">
+    <rect width="160" height="46" rx="12" fill="#1b1b1b" />
+    <circle cx="26" cy="23" r="5" fill="#10b981" />
+    <text x="95" y="29" font-family="monospace" font-size="13" font-weight="bold" fill="#10b981" text-anchor="middle">Async Dispatch</text>
+  </g>
+  
+  <!-- Upload Placeholder Guide -->
+  <rect x="130" y="490" width="340" height="34" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="4 4" />
+  <text x="300" y="512" font-family="sans-serif" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">Photo Placeholder (Upload to: public/profile.jpg)</text>
+</svg>
